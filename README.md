@@ -26,7 +26,7 @@
 <details>
   <summary>˚˖𓍢ִ໋❀ <b>Click to inspect my dev lore / current rabbit hole</b></summary>
   <br/>
-  <p>Currently falling down the rabbit hole of non-Euclidean spaces for my Bachelor's thesis ꩜</p>
+  <p>꩜ Currently falling down the rabbit hole of non-Euclidean spaces for my Bachelor's thesis ꩜</p>
 </details>
 
 </div>
@@ -36,7 +36,22 @@
 <h3 align="center">✰ Languages and Tools:  ✰</h3>
 
 <p align="center"><b>▷ Engines & 3D:</b><br/>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/unity/ffffff">
+      <img src="https://cdn.simpleicons.org/unity/000000" alt="Unity" width="40" height="40" />
+    </picture>
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/unrealengine/ffffff">
+      <img src="https://cdn.simpleicons.org/unrealengine/000000" alt="Unreal Engine" width="40" height="40" />
+    </picture>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/blender" alt="Blender" width="40" height="40"/>
+  </a>
+</p>
 
 <p align="center"><b>⏻ Software & Cloud: ☁︎</b><br/>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
