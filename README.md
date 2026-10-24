@@ -16,7 +16,7 @@
   ☆ Working on <b>a 3D Game in Unity</b><br/>
   ✮ Currently exploring <b>C# & Non-Euclidean Spaces</b><br/>
   ☆ Origins: programming since <a href="https://en.wikipedia.org/wiki/Baltie" title="Baltík: An iconic Central European visual programming tool featuring a little wizard building 3D/2D tiles."><b>Baltie</b></a> ★˖˙<br/>
-  ✮ Say hello @ <a href="https://www.linkedin.com/in/your-profile"><code>linkedin</code></a> · <a href="mailto:jje.borkowska@gmail.com"><code>jje.borkowska@gmail.com</code></a>
+  ✮ Say hello @ <a href="https://www.linkedin.com/in/jjborkowska/"><code>linkedin</code></a> · <a href="mailto:jje.borkowska@gmail.com"><code>jje.borkowska@gmail.com</code></a>
 
 
   
