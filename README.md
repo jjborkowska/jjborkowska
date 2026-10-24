@@ -2,14 +2,13 @@
 <h3 align="center"><code>a creative technologist</code></h3>
 
 <p align="center">-ˋˏ ༻𖤓༺ ˎˊ-</p>
+<div align="center">
 
-<p align="center">
-  <sub>
-    <b>[ engine:</b> unity <b>]</b> &nbsp;·&nbsp;
-    <b>[ vibe:</b> neo-tokyo & sushi <b>]</b> &nbsp;·&nbsp;
-    <b>[ focus:</b> non-euclidean spaces <b>]</b>
-  </sub>
-</p>
+<img src="https://img.shields.io/badge/ENGINE-UNITY-00D85A?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" alt="00D85A" />
+<img src="https://img.shields.io/badge/VIBE-NEO--TOKYO-FF007F?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Vibe Neo Tokyo" />
+<img src="https://img.shields.io/badge/FOCUS-3D_SPATIAL_ILLUSIONS-BD00FF?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Focus 3D Space Illusions" />
+
+</div>
 <!-- -ˋˏ ༻𖤓༺ ˎˊ-
 · · ─ ·☽𖤓☾· ─ · · -->
 <br/>
@@ -22,8 +21,17 @@
 
 <br/>
 
-<p align="center">· · ─ ·☽𖤓☾· ─ · · </p>
+<div align="center">
 
+<details>
+  <summary>˚˖𓍢ִ໋❀ <b>Click to inspect my dev lore / current rabbit hole</b></summary>
+  <br/>
+  <p>Currently falling down the rabbit hole of non-Euclidean spaces for my Bachelor's thesis ꩜</p>
+</details>
+
+</div>
+
+<p align="center">· · ─ ·☽𖤓☾· ─ · · </p>
 
 <h3 align="center">✰ Languages and Tools:  ✰</h3>
 
