@@ -32,7 +32,7 @@
 
 </div>
 
-<p align="center">· · ─ ·☽𖤓☾· ─ · · </p>
+<p align="center">· · ─ ·☽𖤓☾· ─ · ·</p>
 
 <h3 align="center">✰ Languages and Tools:  ✰</h3>
 
@@ -58,6 +58,13 @@
   </p>
 
 </div>
+
+<p align="center">· · ─ ·☽𖤓☾· ─ · ·</p>
+
+<p align="center">[Projects]</p>
+
+https://xp-studio.itch.io/square-1
+
 <br/>
 <p align="center">‿̩͙⊱༒︎༻☾༺༒︎⊰‿̩͙</p>
 <br/>
