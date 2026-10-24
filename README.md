@@ -15,11 +15,12 @@
 <p align="center">
   ☆ Working on <b>a 3D Game in Unity</b><br/>
   ✮ Currently exploring <b>C# & Non-Euclidean Spaces</b><br/>
-  ☆ Say hello @ <a href="https://linkedin.com/in/jjborkowska"><b>LinkedIn</b></a> • <a href="mailto:jje.borkowska@gmail.com"><b>jje.borkowska@gmail.com</b></a> <br/>
-  ✮ Origins: <b>programming since Baltie</b> ✮⋆˙<br/>
-</p>
+  ☆ Origins: programming since <a href="https://en.wikipedia.org/wiki/Baltie" title="Baltík: An iconic Central European visual programming tool featuring a little wizard building 3D/2D tiles."><b>Baltie</b></a> ★˖˙<br/>
+  ✮ Say hello @ <a href="https://www.linkedin.com/in/your-profile"><code>linkedin</code></a> · <a href="mailto:jje.borkowska@gmail.com"><code>jje.borkowska@gmail.com</code></a>
 
-<br/>
+
+  
+</p>
 
 <div align="center">
 
@@ -35,33 +36,29 @@
 
 <h3 align="center">✰ Languages and Tools:  ✰</h3>
 
-<p align="center"><b>▷ Engines & 3D:</b><br/>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/unity/ffffff">
-      <img src="https://cdn.simpleicons.org/unity/000000" alt="Unity" width="40" height="40" />
-    </picture>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/unrealengine/ffffff">
-      <img src="https://cdn.simpleicons.org/unrealengine/000000" alt="Unreal Engine" width="40" height="40" />
-    </picture>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/blender" alt="Blender" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><b>⏻ Software & Cloud: ☁︎</b><br/>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> </p>
+  <p><b>▷ Engines & 3D:</b><br/>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=00E676" alt="Unity" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Unreal_Engine-0d1117?style=flat-square&logo=unrealengine&logoColor=00E676" alt="Unreal" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Blender-0d1117?style=flat-square&logo=blender&logoColor=EA7600" alt="Blender" height="30" /></a>
+  </p>
 
-<p align="center"><b>ᝰ Design & Systems:</b><br/>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+  <p><b>⏻ Software & Cloud: ☁︎</b><br/>
+    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFE873" alt="Python" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Azure" height="30" /></a>
+  </p>
+
+  <p><b>ᝰ Design & Systems:</b><br/>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Illustrator-0d1117?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" height="30" /></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" height="30" /></a>
+  </p>
+
+</div>
 <br/>
-
 <p align="center">‿̩͙⊱༒︎༻☾༺༒︎⊰‿̩͙</p>
 <br/>
 
